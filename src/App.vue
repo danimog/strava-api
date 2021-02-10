@@ -7,7 +7,7 @@
     >
       <div class="d-flex align-center">
         <v-icon>mdi-run-fast</v-icon>
-        Strava-API
+        Strava-API..
       </div>
 
       <v-spacer></v-spacer>
